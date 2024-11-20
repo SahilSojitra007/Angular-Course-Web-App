@@ -1,0 +1,5 @@
+nav {
+    background-color: #79d1e3 !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Optional: Add a border */
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+}
